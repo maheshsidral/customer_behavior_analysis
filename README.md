@@ -131,6 +131,6 @@ The project demonstrates:
 
 ## Author
 
-**Your Name**
+**Mahesh Sidral**
 
 Feel free to connect or provide feedback on this project.
